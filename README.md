@@ -41,8 +41,14 @@ After training the perceptron with random weights and heights, now we want to pr
   <img src="resources/plot_final.png" width="900" height= "500" title="Results">
 </p>
 
+The black line is the perceptron, which splitted the data in two classes: with overweight and with no overweight. The red and blue points are the ones we train the algorithm, the star simbol ones are the predicted data (test data).  
 
- **leyend**
-<p align="center">
-  <img src="resources/legend.png" width="100" height= "60" title="Legend">
+ ### leyend 
+<p align="left">
+  <img src="resources/legend.png" width="150" height= "100" title="Legend">
 </p>
+
+## Libraries 
+
+* numpy
+* matplotlib
