@@ -28,7 +28,10 @@ After training the perceptron with random weights and heights, now we want to pr
 
 
 **Make the prediction:**
-![alt text](resources/prediction.png)
+<p align="left">
+  <img src="resources/prediction.png" width="350" title="hover text">
+  
+</p>
 
 
 
