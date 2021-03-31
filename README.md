@@ -24,13 +24,22 @@ After training the perceptron with random weights and heights, now we want to pr
 **Test dataset(what we want to predict):**
 ![alt text](resources/test_data.png)
 
+
+
+
 **Make the prediction:**
 ![alt text](resources/prediction.png)
+
+
+
 
 '1' means overweight, '0' otherwise. As we can see, the perceptron prediction was very good. Not always the prediction is 100% precise, but most of the time.
 
  **Results**
  ![alt text](resources/plot_final.png)
 
+
+
+
  **leyend**
- ![alt text](resorces/legend.png)
+ ![alt text](resources/legend.png)
