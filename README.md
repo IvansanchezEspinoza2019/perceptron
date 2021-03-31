@@ -29,7 +29,7 @@ After training the perceptron with random weights and heights, now we want to pr
 
 **Make the prediction:**
 <p align="left">
-  <img src="resources/prediction.png" width="700" title="Prediction">
+  <img src="resources/prediction.png" width="700" height= "350" title="Prediction">
 </p>
 
 
