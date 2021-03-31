@@ -22,17 +22,14 @@ It's an example that uses the perceptron to predic things. In this case the perc
 After training the perceptron with random weights and heights, now we want to predict new data. This data looks like follows:
 
 **Test dataset(what we want to predict):**
-![alt text](resources/test_data.png)
-
-
-
+<p align="left">
+  <img src="resources/test_data.png" width="750" height= "200" title="Test Data">
+</p>
 
 **Make the prediction:**
 <p align="left">
-  <img src="resources/prediction.png" width="700" height= "350" title="Prediction">
+  <img src="resources/prediction.png" width="700" height= "150" title="Prediction">
 </p>
-
-
 
 
 '1' means overweight, '0' otherwise. As we can see, the perceptron prediction was very good. Not always the prediction is 100% precise, but most of the time.
