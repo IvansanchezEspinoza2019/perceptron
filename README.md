@@ -2,15 +2,15 @@
 
 The perceptron algorithm was invented in 1958 at the Cornell Aeronautical Laboratory by Frank Rosenblatt. This algorithm is used to train the neuronal model created by McCulloch-Pitts.
 
-### Model
-<p align="center">
-  <img src="resources/perceptron-model.png" width="700" height= "450" title="Prediction">
-</p>
-
-
 It is an algorithm used for supervised learning of binary classifiers. Binary classifiers decide whether an input, usually represented by a series of vectors, belongs to a specific class. In short, a perceptron is a single-layer neural network. They consist of four main parts including input values (X), weights (W) and bias (B), net sum (Weight sum), and an activation function (Decides to which class belongs each input). 
 
 The perceptron only solves problems with linear separability, this means that the classes of the problem can be splitted with a line, plane or hyperplane.
+
+### Model
+<p align="center">
+  <img src="resources/perceptron-model.png" width="700" height= "350" title="Prediction">
+</p>
+
 
 ## Body Mass Index (BMI)
 
@@ -43,7 +43,7 @@ After training the perceptron with random weights and heights, now we want to pr
 
 The black line is the perceptron, which splitted the data in two classes: with overweight and with no overweight. The red and blue points are the ones we train the algorithm, the star simbol ones are the predicted data (test data).  
 
- ### leyend 
+ ### Plot Legend 
 <p align="left">
   <img src="resources/legend.png" width="150" height= "100" title="Legend">
 </p>
