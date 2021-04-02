@@ -18,11 +18,11 @@ It's an example that uses the perceptron to predic things. In this case the perc
 
 ### To do this we have to do the following steps:
 1. Create a trainning dataset
-2. Train the perceptron with that dataset(normalized)
-3. Create test dataset(the data we want to predict)
-4. Make predictions with the test dataset(also normalized)
+2. Train the perceptron with that dataset (normalized)
+3. Create test dataset (the data we want to predict)
+4. Make predictions with the test dataset (also normalized)
 
-After training the perceptron with random weights and heights, now we want to predict new data. This data looks like follows:
+It's important to mention that the data for training and testing must to be normalized, if not, the predictions are going to be very imprecise. After training the perceptron with random weights and heights, now we want to predict new data. This data looks like follows:
 
 ### Test dataset (what we want to predict)
 <p align="center">
@@ -34,7 +34,7 @@ After training the perceptron with random weights and heights, now we want to pr
   <img src="resources/prediction.png" width="700" height= "150" title="Prediction">
 </p>
 
-'1' means overweight, '0' otherwise. As we can see, the perceptron prediction was very good. Not always the prediction is 100% precise, but most of the time.
+1 means overweight, 0 otherwise. As we can see, the perceptron prediction was very good. Not always the prediction is 100% precise, but most of the time.
 
  ### Results
 <p align="center">
